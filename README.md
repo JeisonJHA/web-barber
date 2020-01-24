@@ -70,7 +70,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 
 ## :information_source: How To Use
 
-To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer and the [GoBarber API](https://github.com/jeisonjha/web-barber). From your command line:
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16][nodejs] or higher + [Yarn v1.13][yarn] or higher installed on your computer and the [Back Barber](https://github.com/jeisonjha/back-barber). From your command line:
 
 ```bash
 # Clone this repository
