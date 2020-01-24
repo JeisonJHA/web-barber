@@ -39,11 +39,20 @@ export const Time = styled.li`
 
   opacity: ${props => (props.past ? 0.6 : 1)};
 
+  div {
+    display: flex;
+    justify-content: space-between;
+  }
+
   strong {
-    display: block;
     color: ${props => (props.available ? '#999' : '#7159c1')};
     font-size: 20px;
     font-weight: normal;
+  }
+
+  button {
+    border: 0;
+    background: none;
   }
 
   span {
